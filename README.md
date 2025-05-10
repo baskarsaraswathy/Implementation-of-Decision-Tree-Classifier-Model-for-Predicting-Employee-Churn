@@ -57,32 +57,33 @@ plt.show()
 
 ## Output:
 ## Dataset
-![alt text](output/dataset.png)
+![image](https://github.com/user-attachments/assets/f6da97d6-4151-402d-8324-bcc1ce722580)
 
 ## Information
-![alt text](output/info.png)
+![image](https://github.com/user-attachments/assets/1b6e89cc-009a-4d49-b38c-820bce7baff1)
 
 ## Non Null values
-![alt text](output/null.png)
+![image](https://github.com/user-attachments/assets/3dfee105-73bf-47fe-898a-eb64976c6ff7)
 
 ## Encoded value
-![alt text](output/encoded.png)
+![image](https://github.com/user-attachments/assets/3aa82e6a-abde-4157-ab2a-9e89f9a4ce64)
 
 ## Count
-![alt text](output/count.png)
+![image](https://github.com/user-attachments/assets/176b21fb-b514-4b67-b9be-55e0bd8d1ee5)
 
 ## X and Y value
-![alt text](output/x.png)
-![alt text](output/y.png)
+![image](https://github.com/user-attachments/assets/03269bce-290c-4696-a8c2-e92cabe029db)
+![image](https://github.com/user-attachments/assets/19bfbc68-733a-46fb-8150-be29ba73fde1)
+
 
 ## Accuracy
-![alt text](output/output.png)
+![image](https://github.com/user-attachments/assets/a57f2a86-679f-49d1-a4cd-2430f35a1858)
 
 ## Predicted
-![alt text](output/predicted.png)
+![image](https://github.com/user-attachments/assets/5580e60e-a272-4c69-a4d6-927be374cf3a)
 
 ## Plot
-![alt text](output/DT.png)
+![image](https://github.com/user-attachments/assets/adef65e0-d0c6-4450-8fc8-d6e0eb8a5a42)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
